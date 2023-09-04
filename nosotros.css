@@ -1,0 +1,66 @@
+.piePagina {
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    margin-bottom: 0;
+}
+
+.navbarStyle {
+    margin-bottom: 4px;
+}
+
+.ourZone {
+    text-align: center;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+
+.imagenNosotros {
+    object-fit: cover;
+    width: 3rem;
+    height: 3rem;
+    border-style: groove;
+    border-color: darkorchid;
+}
+
+.tableNosotros {
+    border-style: groove;
+    border-color: blueviolet;
+}
+
+@media (min-width: 768px) {
+
+    .piePagina {
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        position: absolute;
+        margin-bottom: 0;
+    }
+
+    .navbarStyle {
+        margin-bottom: 5px;
+    }
+    
+    .ourZone {
+        text-align: center;
+        letter-spacing: 25px;
+        text-transform: uppercase;
+    }
+
+    .imagenNosotros {
+        object-fit: cover;
+        width: 10rem;
+        height: 10rem;
+        border-radius: 10px;
+        border-style:groove;
+        border-color: darkorchid;
+    }
+    
+    .tableNosotros {
+        border-style: groove;
+        border-color: blueviolet;
+    }
+
+  }
