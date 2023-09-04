@@ -1,0 +1,45 @@
+.piePagina {
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    margin-bottom: 0;
+}
+
+.navbarStyle {
+    margin-bottom: 4px;
+}
+
+.contactZone {
+    text-align: center;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+
+    .piePagina {
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        position: absolute;
+        margin-bottom: 0;
+    }
+
+    .navbarStyle {
+        margin-bottom: 5px;
+    }
+    
+    .contactZone {
+        text-align: center;
+        letter-spacing: 25px;
+        text-transform: uppercase;
+    }
+
+    .formulario {
+        border-radius: 10px;
+        border-style: groove;
+        border-color: blueviolet;
+    }
+
+  }

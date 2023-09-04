@@ -1,0 +1,59 @@
+.piePagina {
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    margin-bottom: 0;
+}
+
+.cardBlogs {
+    object-fit: cover;
+    height: 13.5rem;
+}
+
+.cardBlogsLast {
+    object-fit: cover;
+    height: 13.5rem;
+}
+
+.navbarStyle {
+    margin-bottom: 4px;
+}
+
+.nuestrosBlogs {
+    text-align: center;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+    
+    .cardBlogs {
+        object-fit: cover;
+        height: 25rem;
+    }
+
+    .cardBlogsLast {
+        object-fit: cover;
+        height: 40rem;
+    }
+
+    .piePagina {
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        position: absolute;
+        margin-bottom: 0;
+    }
+
+    .navbarStyle {
+        margin-bottom: 5px;
+    }
+
+    .nuestrosBlogs {
+        text-align: center;
+        letter-spacing: 25px;
+        text-transform: uppercase;
+    }
+
+  }
