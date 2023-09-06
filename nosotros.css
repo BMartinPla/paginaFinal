@@ -29,6 +29,10 @@
     border-color: blueviolet;
 }
 
+.footerStyle {
+    background-color: rgb(23, 7, 68);
+}
+
 @media (min-width: 768px) {
 
     .piePagina {
@@ -61,6 +65,10 @@
     .tableNosotros {
         border-style: groove;
         border-color: blueviolet;
+    }
+
+    .footerStyle {
+        background-color: rgb(23, 7, 68);
     }
 
   }

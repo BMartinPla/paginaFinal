@@ -26,6 +26,10 @@
     text-transform: uppercase;
 }
 
+.footerStyle {
+    background-color: rgb(23, 7, 68);
+}
+
 @media (min-width: 768px) {
     
     .cardBlogs {
@@ -54,6 +58,10 @@
         text-align: center;
         letter-spacing: 25px;
         text-transform: uppercase;
+    }
+
+    .footerStyle {
+        background-color: rgb(23, 7, 68);
     }
 
   }

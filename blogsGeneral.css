@@ -29,6 +29,10 @@
     height: 13.5rem;
 }
 
+.footerStyle {
+    background-color: rgb(23, 7, 68);
+}
+
 @media (min-width: 768px) {
 
     .piePagina {
@@ -60,6 +64,10 @@
     .cardBlogs {
         object-fit: cover;
         height: 13.5rem;
+    }
+
+    .footerStyle {
+        background-color: rgb(23, 7, 68);
     }
 
   }
